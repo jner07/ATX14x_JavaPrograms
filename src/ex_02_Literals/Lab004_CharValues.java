@@ -9,7 +9,7 @@ public class Lab004_CharValues {
         char new_line= '\n';
         System.out.println("jayesh"+new_line+"Ner");
 
-        //\b is like back spacing
+        //\b is back spacing
         char back_space= '\b';
         System.out.println("jayesh"+back_space+ "Ner");
 
