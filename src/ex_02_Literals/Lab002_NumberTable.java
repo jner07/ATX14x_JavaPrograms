@@ -3,7 +3,7 @@ package ex_02_Literals;
 public class Lab002_NumberTable {
     public static void main(String[] args) {
         int num = 9;
-        System.out.printf("%d *1= %d", num, num*1);
+        System.out.printf("%d x 1= %d", num, num*1);
         System.out.println();
         System.out.printf("%d *2= %d", num, num*2);
         System.out.println();
