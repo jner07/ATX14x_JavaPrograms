@@ -1,4 +1,4 @@
-package ex_01_JavaPrograms;
+package ex_02_Literals;
 
 public class Lab004_CharValues {
     public static void main(String[] args) {
