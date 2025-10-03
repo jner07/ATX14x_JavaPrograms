@@ -1,4 +1,4 @@
-package ex_07_If_condition;
+package ex_08_Switch;
 
 import java.util.Scanner;
 
