@@ -1,6 +1,4 @@
-package ex_15_Inheritance.SingleInheritance.ex_15_multilevel.Hierarchial;
-
-import javax.swing.*;
+package ex_15_Inheritance.Hierarchial;
 
 public class Lab001_Hierarchial {
     static void main() {

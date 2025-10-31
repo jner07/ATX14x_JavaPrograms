@@ -1,4 +1,4 @@
-package ex_15_Inheritance.SingleInheritance.ex_15_multilevel.Hierarchial;
+package ex_15_Inheritance.Hierarchial;
 
 public class undir extends Father{
     void gold(){

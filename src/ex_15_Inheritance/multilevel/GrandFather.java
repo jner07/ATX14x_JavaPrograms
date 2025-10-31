@@ -1,4 +1,4 @@
-package ex_15_Inheritance.SingleInheritance.ex_15_multilevel.multilevel;
+package ex_15_Inheritance.multilevel;
 
 public class GrandFather {
      void home(){
