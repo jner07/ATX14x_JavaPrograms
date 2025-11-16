@@ -14,7 +14,7 @@ public class MethodOverriding {
 
 }
 
-  class Father {
+   class Father {
     void home(){
         System.out.println("father home");
     }

@@ -14,5 +14,6 @@ public class Lab001_queue {
         System.out.println(q);
         System.out.println(q.poll()); //removed the first element
         System.out.println(q);
+
     }
 }

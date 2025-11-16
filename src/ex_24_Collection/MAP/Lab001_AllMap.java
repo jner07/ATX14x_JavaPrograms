@@ -38,5 +38,7 @@ public class Lab001_AllMap {
         m.add(lh);
         m.add(hm);
         System.out.println(m);
+
+//        for (String key : Map.)
     }
 }
