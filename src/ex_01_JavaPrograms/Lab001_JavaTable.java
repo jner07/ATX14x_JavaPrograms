@@ -4,6 +4,6 @@ public class Lab001_JavaTable {
     public static void main(String[] args) {
         System.out.println();
         int a = 9;
-        System.out.printf("%d*1=" , a, a*1);
+        System.out.printf("%d*1=%d" , a, a*1);
     }
 }
